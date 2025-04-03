@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import IconBanner from "./components/IconBanner";
 import Bio from "./components/Bio";
 import Skills from "./components/Skills";
+import Project from "./components/Projects";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Bio />
       <div className="max-w-[90%] mx-auto mt-10">
         <Skills />
+        <Project />
       </div>
     </>
   );

@@ -4,8 +4,8 @@ const Bio = () => {
   return (
     <section>
       <div className="bg-black text-center py-20 px-4">
-        <div className="max-w-[90%] mx-auto mt-10">
-          <h2 className="text-4xl mt-20 font-bold text-white">
+        <div className="max-w-[90%] mx-auto">
+          <h2 className="text-4xl font-bold text-white">
             Hola! Soy Axel. Gusto en conocerte.
           </h2>
           <p className="text-2xl mt-10 text-white">
